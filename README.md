@@ -137,8 +137,6 @@ Email: <jouniourabed@gmail.com>
 
 - **Abadnego Joseph** - Founder & Executive Editor
 - **Peter Makau** - Video Production Lead
-- **Mike Rodriguez** - Post-Production Specialist
-
----
+- **Abadnego Joseph** - Post-Production Specialist
 
 Built with ❤️ for JM Media © 2025
