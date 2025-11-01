@@ -2,6 +2,10 @@
 
 A professional, responsive website for JM Media, a photography and video production studio based in Mlolongo, Kenya.
 
+## 🖼️ Preview
+
+![JM Media website preview](assets/images/JM_MEDIA.png)
+
 ## 🌟 Features
 
 - **Responsive Design**: Fully responsive layout that works seamlessly on all devices (desktop, tablet, mobile)
