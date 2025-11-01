@@ -27,7 +27,6 @@ A professional, responsive website for JM Media, a photography and video product
 
 ## 📁 Project Structure
 
-```
 jm_media/
 ├── assets/
 │   ├── css/
@@ -43,7 +42,6 @@ jm_media/
 ├── index.html                 # Main HTML file
 ├── README.md                  # Project documentation
 └── .gitignore                # Git ignore file
-```
 
 ## 🎨 Sections
 
@@ -64,7 +62,7 @@ git clone https://github.com/your-username/jm-media.git
 cd jm-media
 ```
 
-2. Open `index.html` in your web browser or use a local server:
+2.Open `index.html` in your web browser or use a local server:
 
 ```bash
 # Using Python 3
@@ -74,7 +72,7 @@ python -m http.server 8000
 npx http-server
 ```
 
-3. Visit `http://localhost:8000` in your browser
+3.Visit `http://localhost:8000` in your browser
 
 ## ⚙️ Configuration
 
@@ -139,4 +137,4 @@ Email: <jouniourabed@gmail.com>
 
 ---
 
-Built with ❤️ for JM Media © 2024
+Built with ❤️ for JM Media © 2025
